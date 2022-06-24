@@ -1,0 +1,54 @@
+# import json
+# a='{"name":"teena","b":"meena","c":"reena"}'
+
+# v=json.loads(a)
+# print(v)
+
+
+
+
+
+# import json
+# j={"name":"teena","class":12,"age":20}
+# p=json.dumps(j)
+# print(p)
+
+
+# import json
+# s={'name':"teena","class":12,"age":20}
+# h=open("my hobby.json","w")
+# json.dump(s,h)
+
+
+
+# import json
+# a={"teena":"teena","age":20,"city":"bhilwara"}
+# file=open("my datels.json","r")
+# r=json.load(file)
+# print(r)
+
+
+# import json
+# a='{"name":"teena","surname":"kanawar","age":20,"hobb":"dance"}'
+# k=json.loads(a)
+# print(k)
+
+
+# import json
+# d={"name":"teena","surname":"kanawar","age":20,"hobb":"dance"}
+# k=json.dumps(d,indent=4)
+# print(k)
+
+
+# import json
+# d={"name":"teena","surname":"kanawar","age":20,"hobb":"dance"}
+# j=open("my wis.json","w")
+# l=json.dump(d,j,indent=4)
+
+
+# import json
+# d={"name":"teena","surname":"kanawar","age":20,"hobb":"dance"}
+# j=open("my wis.json","r")
+# m=json.load(j)
+# print(m)
+
