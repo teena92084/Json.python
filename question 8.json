@@ -1,0 +1,26 @@
+{
+  "emp1": {
+    "name": "neelam",
+    "desigin": "programer",
+    "age": "24",
+    "selary": "2400"
+  },
+  "emp2": {
+    "name": "komal",
+    "desigin": "trainer",
+    "age": "24",
+    "selary": "20000"
+  },
+  "emp3": {
+    "name": "anuradha",
+    "desigin": "HR",
+    "age": "25",
+    "selary": "40000"
+  },
+  "emp4": {
+    "name": "Abhishek",
+    "desigin": "manager",
+    "age": "29",
+    "selary": "63000"
+  }
+}
